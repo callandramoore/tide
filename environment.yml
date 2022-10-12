@@ -1,0 +1,7 @@
+name: tide
+channels:
+  - anaconda-cluster
+  - defaults
+dependencies:
+  - apache-maven=3.3.3=0
+  - openjdk=8.0.152=h1de35cc_3
